@@ -18,21 +18,18 @@ Infrastructure & Backend Engineer focused on cloud platforms, developer tooling,
 
 **Superplane** – Cloud platform / infrastructure automation
 
-• Contributed platform components and CLI improvements
-• Built AWS CodePipeline integrations
-• Improved CLI UX and platform resource consistency
-
-(8+ merged pull requests)
+- Contributed platform components and CLI improvements
+- Built AWS CodePipeline integrations
+- Improved CLI UX and platform resource consistency
 
 **Railpack** – Deployment tooling
 
-• Improved CLI behavior when multiple tools are installed
+- Improved CLI behavior when multiple tools are installed
 
 
 ## Current Projects
 
-**vmdeploy**
-CLI tool for deployment automation and infrastructure tasks
+**vmdeploy** - CLI tool for deployment automation and infrastructure tasks
 
 More small infrastructure tools coming soon.
 
@@ -41,14 +38,12 @@ More small infrastructure tools coming soon.
 
 I occasionally write about infrastructure, developer tools, and engineering learning.
 
-• Medium – https://medium.com/@manasa.bhagwat
+Medium – https://medium.com/@manasa.bhagwat
 
 
 ## Profiles
 
-GitHub
-https://github.com/manasa-bhagwat
+GitHub - https://github.com/manasa-bhagwat
 
-LinkedIn
-https://linkedin.com/in/manasabhagwat
+LinkedIn - https://linkedin.com/in/manasabhagwat
 
