@@ -4,8 +4,6 @@ Infrastructure & Backend Engineer focused on cloud platforms, developer tooling,
 
 Active open-source contributor building platform integrations, CLI improvements, and developer experience features.
 
-Open-source contributor with multiple merged PRs to the Superplane cloud platform.
-
 ## 🔧 Focus Areas
 
 - Go backend development
