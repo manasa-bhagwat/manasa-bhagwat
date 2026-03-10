@@ -2,57 +2,53 @@
 
 Infrastructure & Backend Engineer focused on cloud platforms, developer tooling, and infrastructure automation.
 
-Active open-source contributor building platform integrations, CLI improvements, and developer experience features.
 
-## 🔧 Focus Areas
+🔭 I’m currently contributing to open source infrastructure and developer tooling projects
 
-- Go backend development
-- Infrastructure tooling
-- CLI developer tools
-- Cloud platform integrations
-- DevOps automation
-- Developer experience (DevEx)
+🌱 I’m currently learning more about Go systems programming, cloud platforms, and distributed systems
 
-## 🚀 Open Source Contributions
+⚙️ I enjoy building CLI tools, deployment tooling, and infrastructure automation
 
-### [Superplane - Cloud Platform / Infrastructure Automation](https://github.com/superplanehq/superplane)
+💬 I’m interested in platform engineering, DevOps tooling, and developer experience
 
-Contributed multiple features and improvements including:
+📫 Feel free to connect with me on LinkedIn
 
-- AWS CodePipeline platform components
-- CLI improvements and UX fixes
-- Platform resource consistency improvements
-- CLI discovery improvements
 
-### [Railpack - Deployment Tooling](https://github.com/railwayapp/railpack)
+## Open Source Contributions
 
-Improved CLI behavior when multiple tools are installed to enhance developer experience.
+**Superplane** – Cloud platform / infrastructure automation
 
-## 🛠 Projects
+• Contributed platform components and CLI improvements
+• Built AWS CodePipeline integrations
+• Improved CLI UX and platform resource consistency
 
-### [vmdeploy](https://github.com/manasa-bhagwat/vm-deploy-engine)
+(8+ merged pull requests)
 
-CLI tool for deployment automation and infrastructure tasks.
+**Railpack** – Deployment tooling
+
+• Improved CLI behavior when multiple tools are installed
+
+
+## Current Projects
+
+**vmdeploy**
+CLI tool for deployment automation and infrastructure tasks
 
 More small infrastructure tools coming soon.
 
-## 📚 Currently Learning
 
-- Go systems programming
-- Infrastructure engineering
-- Cloud platforms and deployment systems
-- Distributed systems fundamentals
+## ✍️ Blog
 
-## 🎯 Engineering Interests
+I occasionally write about infrastructure, developer tools, and engineering learning.
 
-- Platform Engineering
-- Infrastructure as Code
-- Deployment systems
-- Cloud platforms
-- DevTools
-- Developer Experience
+• Medium – https://medium.com/@manasa.bhagwat
 
-## 🌐 Links
 
-- GitHub: [https://github.com/manasa-bhagwat](https://github.com/manasa-bhagwat)
-- LinkedIn: [https://linkedin.com/in/manasabhagwat](https://linkedin.com/in/manasabhagwat)
+## Profiles
+
+GitHub
+https://github.com/manasa-bhagwat
+
+LinkedIn
+https://linkedin.com/in/manasabhagwat
+
