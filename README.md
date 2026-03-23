@@ -5,11 +5,11 @@ Infrastructure & Backend Engineer focused on cloud platforms, developer tooling,
 
 🔭 I’m currently contributing to open source infrastructure and developer tooling projects
 
-🌱 I’m currently learning more about Go systems programming, cloud platforms, and distributed systems
+🌱 I’m currently learning more about Go systems programming, Java backend development, cloud platforms, and distributed systems
 
-⚙️ I enjoy building CLI tools, deployment tooling, and infrastructure automation
+⚙️ I enjoy building CLI tools, deployment tooling, infrastructure automation, and backend services using Java and Go
 
-💬 I’m interested in platform engineering, DevOps tooling, and developer experience
+💬 I’m interested in platform engineering, DevOps tooling, developer experience, and scalable backend systems
 
 📫 Feel free to connect with me on LinkedIn
 
